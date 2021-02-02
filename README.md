@@ -5,7 +5,7 @@
 A command-line app is created that accepts user input when prompted to add team members and their info
 
 Video walkthough link:
-[https://drive.google.com/file/d/1wq4cssu0TNHVHqkPfezv1D1XO9afksyw/view](url)
+https://drive.google.com/file/d/1wq4cssu0TNHVHqkPfezv1D1XO9afksyw/view
 
 
 Images:
