@@ -12,8 +12,6 @@ Images:
 
 <img width="690" alt="Screen Shot 2021-02-02 at 10 26 25 pm" src="https://user-images.githubusercontent.com/73766339/106594211-e9b69b80-65a5-11eb-89ff-b162145fc2d7.png">
 
-<img width="1101" alt="Screen Shot 2021-02-02 at 10 26 56 pm" src="https://user-images.githubusercontent.com/73766339/106594252-f5a25d80-65a5-11eb-8f75-564502cbdefa.png">
-
 <img width="857" alt="Screen Shot 2021-02-02 at 10 27 20 pm" src="https://user-images.githubusercontent.com/73766339/106594276-fcc96b80-65a5-11eb-90ff-430186c2ee2c.png">
 
 <img width="1114" alt="Screen Shot 2021-02-02 at 10 27 35 pm" src="https://user-images.githubusercontent.com/73766339/106594291-00f58900-65a6-11eb-9c10-29a01d169feb.png">
